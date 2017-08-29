@@ -21,7 +21,8 @@ render() {
   <BezierMask style={myStyles}>
      <img src="https://placehold.it/300x300/" width="300" height="300" />
   </BezierMask>
-}```
+}
+```
 
 
 ## MIT License
