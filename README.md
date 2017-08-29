@@ -1,5 +1,29 @@
 # react-bezier-square
 
+A simple ReactJS component to provide a square mask using Bezier curves.
+
+There's a great article on [HackerNoon](https://hackernoon.com/apples-icons-have-that-shape-for-a-very-good-reason-720d4e7c8a14) about Apple's use of these image masks for their icons.
+
+
+## Installation
+
+`$ npm install --save react-bezier-square`
+
+
+## Usage
+
+```html
+import BezierMask from 'react-bezier-square'
+import React, {Component} from 'react'
+
+
+render() {
+  <BezierMask style={myStyles}>
+     <img src="https://placehold.it/300x300/" width="300" height="300" />
+  </BezierMask>
+}```
+
+
 ## MIT License
 
 Copyright (c) 2017 William Le

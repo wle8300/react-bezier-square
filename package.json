@@ -1,6 +1,6 @@
 {
   "name": "react-bezier-square",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Bezier square mask (in ReactJS)",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
     "mask"
   ],
   "dependencies": {
-    "react": "^15.6.1",
+    "react": "^15.6.1"
   },
   "author": "William Le <wle8300@gmail.com>",
   "license": "MIT",
