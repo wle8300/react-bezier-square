@@ -1,0 +1,30 @@
+{
+  "name": "react-bezier-square",
+  "version": "1.0.0",
+  "description": "A Bezier square mask (in ReactJS)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wle8300/react-bezier-square.git"
+  },
+  "keywords": [
+    "reactjs",
+    "react-js",
+    "react",
+    "javascript",
+    "bezier",
+    "mask"
+  ],
+  "dependencies": {
+    "react": "^15.6.1",
+  },
+  "author": "William Le <wle8300@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wle8300/react-bezier-square/issues"
+  },
+  "homepage": "https://github.com/wle8300/react-bezier-square#readme"
+}
